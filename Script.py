@@ -1,7 +1,8 @@
+#(©) 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧
 import os
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-TOKEN = '6433293774:AAGRhgl7a9Oi9XhbZnKE_yzTqc8n1KsymZY'
+TOKEN = '6362281925:AAGSTs25eytppfuN-AF-IMKCtxrvtxhXWJ8'
 
 def start(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text=f"Hello {update.effective_user.first_name}! Welcome to File Rename Bot. Send me a file to rename.")

@@ -27,7 +27,7 @@ async def help_cmd(cleint, message):
 
 @Sanchit.on_message(filters.command("about"))
 async def about_cmd(cleint, message):
-    await message.reply_text('''</a>ᴍʏ ɴᴀᴍᴇ : Cinema Explorer Bot
+    await message.reply_text('''</a>ᴍʏ ɴᴀᴍᴇ : Jhukega Nhi🤧
 
  ‣ ᴍʏ ʙᴇꜱᴛ ꜰʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
 
